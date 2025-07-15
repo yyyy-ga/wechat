@@ -1,0 +1,6 @@
+"dependencies": {
+  "xml2js": "^0.6.2",
+  "@notionhq/client": "^2.2.15",
+  "axios": "^1.7.2",
+  "form-data": "^4.0.0"
+}
